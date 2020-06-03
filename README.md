@@ -1,6 +1,11 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application with admin and authentication features built with Rails 4.2.
+
+
+## Final Product
+
+!["Screenshot of Scheduler when loaded"](https://github.com/luaduarte04/scheduler/blob/master/public/images/1-scheduler-when-loaded.png?raw=true)
 
 
 ## Setup
