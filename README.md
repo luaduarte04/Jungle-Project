@@ -5,7 +5,9 @@ A mini e-commerce application with admin and authentication features built with 
 
 ## Final Product
 
-!["Screenshot of Scheduler when loaded"](https://github.com/luaduarte04/scheduler/blob/master/public/images/1-scheduler-when-loaded.png?raw=true)
+!["Screenshot of Jungle Main Page"](https://github.com/luaduarte04/Jungle-Project/blob/master/public/main.png?raw=true)
+!["Screenshot of Jungle Product Page"](https://github.com/luaduarte04/Jungle-Project/blob/master/public/product_page.png?raw=true)
+!["Screenshot of Jungle Admin Product Page"](https://github.com/luaduarte04/Jungle-Project/blob/master/public/admin_product_page.png?raw=true)
 
 
 ## Setup
@@ -19,11 +21,13 @@ A mini e-commerce application with admin and authentication features built with 
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
+
 ## Stripe Testing
 
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
+
 
 ## Dependencies
 
